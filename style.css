@@ -1,3 +1,27 @@
 *{
+    /* color: red; */
+}
+h1{
     color: red;
+    text-align: center;
+    font-size: 500%;
+}
+p{
+    color: blueviolet;
+    text-align: center;
+}
+
+div{
+    color:blue;
+    text-align: center;
+    font-size: 200%;
+}
+
+button{
+    color: red;
+    background-color: aqua;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 100%;
 }
